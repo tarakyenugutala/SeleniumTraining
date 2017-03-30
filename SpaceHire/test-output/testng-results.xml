@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="46" started-at="2017-03-27T18:02:25Z" finished-at="2017-03-27T18:02:25Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="46" started-at="2017-03-27T18:02:25Z" finished-at="2017-03-27T18:02:25Z">
+      <class name="space.testsuites.LoginFunction">
+        <test-method status="PASS" signature="verifyPageTitle()[pri:0, instance:space.testsuites.LoginFunction@1410acf]" name="verifyPageTitle" duration-ms="8" started-at="2017-03-27T23:32:25Z" finished-at="2017-03-27T23:32:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitle -->
+      </class> <!-- space.testsuites.LoginFunction -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
