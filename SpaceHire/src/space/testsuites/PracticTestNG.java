@@ -41,7 +41,9 @@ public class PracticTestNG {
 		System.out.println("test5");
 	}
 	
-	
+	public void test6(){
+		System.out.println("test6");
+	}
 	
 	
 }
